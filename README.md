@@ -34,11 +34,10 @@ bash mkdir touch cat grep find wc tail chmod ps kill tar sort uniq
 ## Step 1: Clone This Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/devops-linux-basics-lab.git
+git clone https://github.com/beejay777/devops-linux-basics-lab.git
 cd devops-linux-basics-lab
 ```
 
-Replace `YOUR-USERNAME` with the actual GitHub username or organization name.
 
 ## Step 2: Read the Assignment
 
