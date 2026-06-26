@@ -35,7 +35,7 @@ bash mkdir touch cat grep find wc tail chmod ps kill tar sort uniq
 
 ```bash
 git clone https://github.com/beejay777/devops-and-cloud.git
-cd devops-linux-basics-lab
+cd devops-and-cloud
 ```
 
 
